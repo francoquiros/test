@@ -68,7 +68,7 @@ body:
     attributes:
       label: Jam link
   - type: input
-    id: jam
+    id: har
     attributes:
       label: Browser's HAR file link
   - type: textarea
