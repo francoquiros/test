@@ -67,10 +67,11 @@ body:
     id: jam
     attributes:
       label: Jam link
-  - type: input
+  - type: textarea
     id: har
     attributes:
-      label: Browser's HAR file link
+      label: Browser's HAR file 
+      placeholder: Upload the HAR file here
   - type: textarea
     id: logs
     attributes:
